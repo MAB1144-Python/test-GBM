@@ -1,0 +1,34 @@
+# Project Name
+
+## Description
+
+## Table of Contents
+
+
+## Installation
+To install and set up your project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Create a virtual environment by running the following command:
+    ```
+    python -m venv venv
+    ```
+4. Activate the virtual environment:
+    - For Windows:
+      ```
+      venv\Scripts\activate
+      ```
+    - For macOS/Linux:
+      ```
+      source venv/bin/activate
+      ```
+5. Install the required dependencies by running the following command:
+    ```
+    pip install -r requirements.txt
+    ```
+6. You're all set! Now you can run your Python code using the virtual environment.
+
+## Usage
+
+
