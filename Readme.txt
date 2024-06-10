@@ -2,13 +2,15 @@
 
 ## Description
 
-## Table of Contents
-
+Desarrollo de prueba tecnica.
 
 ## Installation
 To install and set up your project, follow these steps:
 
 1. Clone the repository to your local machine.
+
+    https://github.com/MAB1144-Python/test-GBM.git
+
 2. Create a virtual environment by running the following command:
     ```
     python3 -m venv venv/
